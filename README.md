@@ -1,2 +1,1 @@
-# AirBnB_clone
-Welcome to the AirBnB clone project!
+AirBnB clone - The console
